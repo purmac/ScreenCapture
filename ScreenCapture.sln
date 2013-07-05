@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScreenCapture", "WindowsFormsApplication4\ScreenCapture.csproj", "{0340E415-A1E1-4B7C-87A6-85DF81090B73}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0340E415-A1E1-4B7C-87A6-85DF81090B73}.Debug|x86.ActiveCfg = Debug|x86
+		{0340E415-A1E1-4B7C-87A6-85DF81090B73}.Debug|x86.Build.0 = Debug|x86
+		{0340E415-A1E1-4B7C-87A6-85DF81090B73}.Release|x86.ActiveCfg = Release|x86
+		{0340E415-A1E1-4B7C-87A6-85DF81090B73}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
